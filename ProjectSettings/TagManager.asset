@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - VictoryPoint
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - PatrolSkeleton
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 5
+    uniqueID: 130464751
+    locked: 0
+  - name: 4
+    uniqueID: 867401541
+    locked: 0
+  - name: 3
+    uniqueID: 293776467
+    locked: 0
+  - name: 2
+    uniqueID: 699640459
+    locked: 0
+  - name: 1
+    uniqueID: 247894497
+    locked: 0
+  - name: b1
+    uniqueID: 2800397439
+    locked: 0
+  - name: b2
+    uniqueID: 2800983451
+    locked: 0
+  - name: b3
+    uniqueID: 3215213735
+    locked: 0
+  - name: b4
+    uniqueID: 2107274721
+    locked: 0
+  - name: b5
+    uniqueID: 1148930675
+    locked: 0
+  - name: b6
+    uniqueID: 1832782839
+    locked: 0
+  - name: b7
+    uniqueID: 1901387731
+    locked: 0
+  - name: Water
+    uniqueID: 3183306535
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 769531733
+    locked: 0
+  m_RenderingLayers:
+  - Default
