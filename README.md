@@ -1,13 +1,9 @@
 # Game Verdant Void
 
-Created By :
-1. 11S21004 - Riris Iyut Roito Siregar
-2. 11S21005 - Tesalonika Aprisda Sitopu
-3. 11S21006 - Salwa Zahira Harahap
-4. 11S21010 - Gabriel Cesar Hutagalung
-
+Created By : Gabriel Cesar Hutagalung
 
 ### Tentang Game Ini
+
 Game ini adalah game yang bercerita tentang seorang pahlawan
 yang ingin menyelamatkan dunia dengan mengalahkan para iblis yang 
 menggunakan tengkorang orang mati menjadi wadahnya untuk
@@ -16,6 +12,15 @@ menghancurkan dunia.
 Pahlawan diberikan kekuatan oleh dewi dengan pedang istimewa untuk
 membasmi pada iblis tersebut. Hingga nantinya dia akan diangkat ke surga
 bersama para dewi.
+
+### Tampilan Game
+
+![Gambar 1](readme_image/2025-06-05_06-42.png)
+![Gambar 1](readme_image/2025-06-05_06-43.png)
+![Gambar 1](readme_image/2025-06-05_06-43_1.png)
+![Gambar 1](readme_image/2025-06-05_06-44.png)
+![Gambar 1](readme_image/2025-06-05_06-45.png)
+![Gambar 1](readme_image/2025-06-05_06-47.png)
 
 ### Resource
 
